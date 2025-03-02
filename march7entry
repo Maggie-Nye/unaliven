@@ -1,0 +1,45 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title> Cigs in the City 2</title> 
+  <style>
+    h1{font-family: copperplate; "Courier New";text-align: center;}
+
+    h2{color: darkred; font-family: copperplate; "Courier New";text-align: center;}
+    img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    p {
+  font-family: Georgia, Serif
+    }
+    div {
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-bottom: 100px;
+  padding-left: 60px;
+}
+  
+  </style>
+</head>
+<body>
+  <div>
+<h1>Cigs in the City</h1>
+<h2>Zachary’s Blog for however long it lasts</h2>
+
+
+<p> 
+March 7, 2025 </p>
+<p>Hi, my name is Zachary, obviously. I live in Chicago now, but I didn’t always. Also obviously. I grew in a place the internet's never heard of, and that's Waterloo, Indiana. I thought it was Waterloo that was boring, but now that I'm in Chicago and it feels pretty much the same but more expensive, I think I might be the boring one.</p>
+
+<p>
+ Who am I? I’m a smoker. I smoke about a pack every 3 days. That’s not how people usually introduce themselves, I know, but it’s kind of the main thing about this blog, and maybe about me, too. </p>
+
+<img src="cig pic.jpg" width="30%">
+
+<p>
+ I’ve been smoking since I was a kid. It kind of runs in the family (Hi mom!). I’ve been smoking Marlboro Golds for a long time now, and I’m ready to break out of my rut. There are enough food blogs in the world, but I’ve never seen a cigarette blog, so enter: <em>Cigs in the City</em>, a blog for shitheads who want to watch me smoke myself to death. <em> Kidding!</em> I don’t really know who it’s a blog for yet, other than me. But if you're reading this and you have a request, leave me a comment. Maybe I'll read it. </p>
+</div>
+</body>
+</html>
